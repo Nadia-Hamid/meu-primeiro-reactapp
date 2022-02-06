@@ -47,6 +47,18 @@
       "body": "Write here",
       "author": "maria",
       "id": 8
+    },
+    {
+      "title": "New Blogs",
+      "body": "A new blog",
+      "author": "maria",
+      "id": 9
+    },
+    {
+      "title": "Write here",
+      "body": "Write here",
+      "author": "maria",
+      "id": 10
     }
   ]
 }
